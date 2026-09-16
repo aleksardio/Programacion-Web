@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Calificaciones | Ejercicio 15</title>
+    <link rel="stylesheet" href="css/ejercicio15.css">
+</head>
+<body>
+
+    <div class="tarjeta">
+        <h2>Gestión de Estudiantes</h2>
+
+        <div class="campo">
+            <label for="nombre">Nombre del estudiante:</label>
+            <input type="text" id="nombre" placeholder="Ej: Juan">
+        </div>
+        <div class="campo">
+            <label for="calificacion">Calificación:</label>
+            <input type="number" id="calificacion" placeholder="Ej: 85" step="any">
+        </div>
+        <button type="button" id="btnAgregar" class="btn-secundario">Agregar estudiante</button>
+        <hr>
+        <button type="button" id="btnCalcular">Calcular</button>
+        <div class="campo">
+            <label for="promedio">Calificación promedio:</label>
+            <input type="text" id="promedio" placeholder="-" readonly>
+        </div>
+        <div class="campo">
+            <label for="masAlta">Estudiante con calificación más alta:</label>
+            <input type="text" id="masAlta" placeholder="-" readonly>
+        </div>
+        <div class="campo">
+            <label for="masBaja">Estudiante con calificación más baja:</label>
+            <input type="text" id="masBaja" placeholder="-" readonly>
+        </div>
+    </div>
+    <p><a href="index.html">← Volver al inicio</a></p>
+    <script src="js/ejercicio15.js"></script>
+</body>
+</html>
