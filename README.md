@@ -18,6 +18,14 @@ El proyecto cuenta con una página principal (`index.html`) que funciona como me
 * **Ejercicio 8: Horario de clases:** Maquetación avanzada de tablas con horarios universitarios y estilos CSS externos.
 * **Ejercicio 9: Formulario de contacto:** Diseño responsivo de formulario accesible con variables CSS (`:root`), Grid y validaciones HTML5.
 * **Ejercicio 10: Conversor celsius a fahrenheit:** Calculadora interactiva de temperatura mediante manipulación del DOM con JavaScript, validación numérica y salida en campo `readonly`.
+* **Ejercicio 11: Kilómetros a Millas:** Conversor de distancia usando operaciones básicas en JavaScript.
+* **Ejercicio 12: Pesos a Dólares:** Conversor de moneda con validación de números positivos.
+* **Ejercicio 13: Verificador de Votación:** Uso de condicionales (if/else) para saber si una persona es mayor de edad.
+* **Ejercicio 14: Análisis de Arreglos:** Búsqueda del número mayor, menor y el promedio dentro de una lista de números.
+* **Ejercicio 15: Gestión de Estudiantes:** Uso de objetos en JavaScript para registrar calificaciones y calcular resultados.
+* **Ejercicio 16: Calculadora con Funciones Flecha:** Operaciones matemáticas básicas usando funciones modernas y alertas visuales.
+* **Ejercicio 17: Local Storage (Tareas):** Aplicación para guardar, leer y borrar datos directamente en la memoria del navegador usando JSON.
+* **Ejercicio 18: Manipulación del DOM con Bootstrap:** Creación interactiva de una lista de elementos aplicando estilos y diseño responsivo predefinido.
 
 ---
 
@@ -26,3 +34,6 @@ El proyecto cuenta con una página principal (`index.html`) que funciona como me
 * **HTML5:** Marcado semántico, formularios y tablas.
 * **CSS3:** Variables globales, Flexbox, Grid y diseño responsivo.
 * **JavaScript:** Manejo de eventos en el DOM y lógica de cálculo.
+* **Bootstrap 5:** Librería de CSS para dar un diseño moderno, rápido y responsivo (Ejercicio 18).
+* **SweetAlert2:** Librería para reemplazar las alertas básicas del navegador por ventanas emergentes atractivas e interactivas.
+* **Local Storage & JSON:** Herramientas del navegador para guardar datos de forma permanente.
